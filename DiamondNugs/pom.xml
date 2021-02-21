@@ -6,7 +6,7 @@
 
   <groupId>otherwisejunk.diamondnugs.spigot.plugin</groupId>
   <artifactId>DiamondNugs</artifactId>
-  <version>0.9.0</version>
+  <version>0.9.5</version>
   <packaging>jar</packaging>
 
   <name>DiamondNugs</name>
