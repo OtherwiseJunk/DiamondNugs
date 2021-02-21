@@ -6,7 +6,7 @@
 
   <groupId>otherwisejunk.diamondnugs.spigot.plugin</groupId>
   <artifactId>DiamondNugs</artifactId>
-  <version>0.0.1</version>
+  <version>0.9.0</version>
   <packaging>jar</packaging>
 
   <name>DiamondNugs</name>
@@ -36,8 +36,8 @@
     <dependency>
       <groupId>org.spigotmc</groupId>
       <artifactId>spigot-api</artifactId>
-      <version>1.12.2-R0.1-SNAPSHOT</version>
-      <scope>provided</scope>
+      <version>1.16.1-R0.1-SNAPSHOT</version>
+      <scope>provided</scope>      
     </dependency>
   </dependencies>
 
