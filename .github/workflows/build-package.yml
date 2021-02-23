@@ -24,5 +24,5 @@ jobs:
       run: mvn -B package --file DiamondNugs/pom.xml
     - uses: actions/upload-artifact@v2
       with:
-        name: Uploading Artifact
+        name: DiamondNugs.jar
         path: DiamondNugs/target/DiamondNugs*.jar
