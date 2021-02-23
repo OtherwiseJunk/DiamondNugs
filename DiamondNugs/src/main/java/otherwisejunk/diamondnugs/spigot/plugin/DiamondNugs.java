@@ -6,10 +6,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 import otherwisejunk.diamondnugs.spigot.plugin.Enchantments.BernankesBlessing;
 import otherwisejunk.diamondnugs.spigot.plugin.Items.DiamondShard;
 
-/**
- * Hello world!
- *
- */
 public class DiamondNugs extends JavaPlugin
 {
     private static String DiamondShardNamespaceKey = "diamond_shards";
