@@ -23,6 +23,7 @@ jobs:
     - name: Build with Maven
       run: mvn -B package --file DiamondNugs/pom.xml
     - uses: actions/upload-artifact@v2
+    - name: Uploading Artifacts...
     - with:
         name: upload artifact
         path: DiamondNugs/target/DiamondNugs-0.9.5.jar
